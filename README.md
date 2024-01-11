@@ -10,3 +10,5 @@ Jan 7th --> 26. Remove Duplicates from Sorted Array
 Jan 8th --> 9. Palindrome Number
 Jan 9th --> 190. Reverse Bits
 Jan 10th --> 191. Number of 1 Bits
+Jan 11th --> 70. Climbing Stairs
+Jan 12th --> 
