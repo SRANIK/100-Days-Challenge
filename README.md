@@ -12,4 +12,5 @@ Jan 9th --> 190. Reverse Bits
 Jan 10th --> 191. Number of 1 Bits
 Jan 11th --> 70. Climbing Stairs
 Jan 12th --> 461. Hamming Distance
-Jan 13th --> 
+Jan 13th --> 231. Power of Two
+Jan 14th --> 
