@@ -13,4 +13,5 @@ Jan 10th --> 191. Number of 1 Bits
 Jan 11th --> 70. Climbing Stairs
 Jan 12th --> 461. Hamming Distance
 Jan 13th --> 231. Power of Two
-Jan 14th --> 
+Jan 14th --> 58. Length of Last Word
+Jan 15th --> 
