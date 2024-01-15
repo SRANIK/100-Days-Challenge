@@ -14,4 +14,5 @@ Jan 11th --> 70. Climbing Stairs
 Jan 12th --> 461. Hamming Distance
 Jan 13th --> 231. Power of Two
 Jan 14th --> 58. Length of Last Word
-Jan 15th --> 
+Jan 15th --> 7. Reverse Integer
+Jan 16th --> 
