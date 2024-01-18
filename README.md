@@ -17,4 +17,5 @@ Jan 14th --> 58. Length of Last Word
 Jan 15th --> 7. Reverse Integer
 Jan 16th --> 83. Remove Duplicates from Sorted List
 Jan 17th --> 168. Excel Sheet Column Title
-Jan 18th --> 
+Jan 18th --> 2469. Convert the Temperature
+Jan 19th --> 
