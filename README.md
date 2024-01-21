@@ -20,4 +20,5 @@ Jan 17th --> 168. Excel Sheet Column Title
 Jan 18th --> 2469. Convert the Temperature
 Jan 19th --> 367. Valid Perfect Square
 Jan 20th --> 405. Convert a Number to Hexadecimal
-Jan 21st --> 
+Jan 21st --> 414. Third Maximum Number
+Jan 22nd --> 
