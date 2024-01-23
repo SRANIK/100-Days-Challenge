@@ -22,4 +22,5 @@ Jan 19th --> 367. Valid Perfect Square
 Jan 20th --> 405. Convert a Number to Hexadecimal
 Jan 21st --> 414. Third Maximum Number
 Jan 22nd --> 551. Student Attendance Record I
-Jan 23rd --> 
+Jan 23rd --> 504. Base 7
+Jan 24th --> 
