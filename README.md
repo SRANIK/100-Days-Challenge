@@ -24,4 +24,5 @@ Jan 21st --> 414. Third Maximum Number
 Jan 22nd --> 551. Student Attendance Record I
 Jan 23rd --> 504. Base 7
 Jan 24th --> 476. Number Complement
-Jan 25th --> 
+Jan 25th --> 283. Move Zeroes
+Jan 26th --> 
