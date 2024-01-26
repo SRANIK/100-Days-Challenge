@@ -25,4 +25,5 @@ Jan 22nd --> 551. Student Attendance Record I
 Jan 23rd --> 504. Base 7
 Jan 24th --> 476. Number Complement
 Jan 25th --> 283. Move Zeroes
-Jan 26th --> 
+Jan 26th --> 560. Subarray Sum Equals K
+Jan 27th --> 
