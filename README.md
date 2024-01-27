@@ -26,4 +26,5 @@ Jan 23rd --> 504. Base 7
 Jan 24th --> 476. Number Complement
 Jan 25th --> 283. Move Zeroes
 Jan 26th --> 560. Subarray Sum Equals K
-Jan 27th --> 
+Jan 27th --> 75. Sort Colors
+Jan 28th --> 
