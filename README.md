@@ -29,4 +29,5 @@ Jan 26th --> 560. Subarray Sum Equals K
 Jan 27th --> 75. Sort Colors
 Jan 28th --> 1108. Defanging an IP Address
 Jan 29th --> 61. Rotate List
-Jan 30th --> 
+Jan 30th --> 20. Valid Parentheses
+Jan 31st --> 
