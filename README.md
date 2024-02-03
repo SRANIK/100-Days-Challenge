@@ -33,3 +33,5 @@ Jan 30th --> 20. Valid Parentheses
 Jan 31st --> 27. Remove Element
 Feb 1st --> 35. Search Insert Position  Day 32
 Feb 2nd --> 3019. Number of Changing Keys Day 33
+Feb 3rd --> 645. Set Mismatch Day 34
+Feb 4th --> 
