@@ -35,4 +35,5 @@ Feb 1st --> 35. Search Insert Position  Day 32
 Feb 2nd --> 3019. Number of Changing Keys Day 33
 Feb 3rd --> 645. Set Mismatch Day 34
 Feb 4th --> Day 35 --> 2798. Number of Employees Who Met the Target
-Feb 5th --> Day 36 --> 
+Feb 5th --> Day 36 --> 1486. XOR Operation in an Array
+Feb 6th --> Day 37 -->
