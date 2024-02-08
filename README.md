@@ -38,4 +38,5 @@ Feb 4th --> Day 35 --> 2798. Number of Employees Who Met the Target
 Feb 5th --> Day 36 --> 1486. XOR Operation in an Array
 Feb 6th --> Day 37 --> 371. Sum of Two Integers
 Feb 7th --> Day 38 --> 693. Binary Number with Alternating Bits
-Feb 8th --> Day 39 --> 
+Feb 8th --> Day 39 --> 2413. Smallest Even Multiple
+Feb 9th --> Day 40 --> 
