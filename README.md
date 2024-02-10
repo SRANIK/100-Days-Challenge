@@ -40,4 +40,5 @@ Feb 6th --> Day 37 --> 371. Sum of Two Integers
 Feb 7th --> Day 38 --> 693. Binary Number with Alternating Bits
 Feb 8th --> Day 39 --> 2413. Smallest Even Multiple
 Feb 9th --> Day 40 --> 171. Excel Sheet Column Number
-Feb 10th --> Day 41 -->
+Feb 10th --> Day 41 --> 204. Count Primes
+Feb 11th --> Day 42 --> 
