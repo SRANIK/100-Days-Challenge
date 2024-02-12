@@ -42,4 +42,5 @@ Feb 8th --> Day 39 --> 2413. Smallest Even Multiple
 Feb 9th --> Day 40 --> 171. Excel Sheet Column Number
 Feb 10th --> Day 41 --> 204. Count Primes
 Feb 11th --> Day 42 --> 747. Largest Number At Least Twice of Others
-Feb 12th --> Day43 --> 
+Feb 12th --> Day 43 --> 66. Plus One
+Feb 13th --> Day 44 --> 
