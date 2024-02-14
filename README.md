@@ -44,4 +44,5 @@ Feb 10th --> Day 41 --> 204. Count Primes
 Feb 11th --> Day 42 --> 747. Largest Number At Least Twice of Others
 Feb 12th --> Day 43 --> 66. Plus One
 Feb 13th --> Day 44 --> 338. Counting Bits
-Feb 14th --> Day 45 --> 
+Feb 14th --> Day 45 --> 1534. Count Good Triplets
+Feb 15th --> Day 46 --> 
