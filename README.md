@@ -48,4 +48,5 @@ Feb 14th --> Day 45 --> 1534. Count Good Triplets
 Feb 15th --> Day 46 --> 13. Roman to Integer
 Feb 16th --> Day 47 --> 14. Longest Common Prefix
 Feb 17th --> Day 48 --> 258. Add Digits
-Feb 18th --> Day 49 --> 
+Feb 18th --> Day 49 --> 2769. Find the Maximum Achievable Number
+Feb 19th --> Day 50 --> 
